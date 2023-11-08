@@ -1,0 +1,23 @@
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\041_2_CURSO_CARRITO_COMPRAS_MVC\TecEmergentes\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\041_2_CURSO_CARRITO_COMPRAS_MVC\TecEmergentes\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\041_2_CURSO_CARRITO_COMPRAS_MVC\TecEmergentes\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+D:\041_2_CURSO_CARRITO_COMPRAS_MVC\TecEmergentes\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\041_2_CURSO_CARRITO_COMPRAS_MVC\TecEmergentes\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\041_2_CURSO_CARRITO_COMPRAS_MVC\TecEmergentes\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\TecEmergentesColores\TecEmergentesColores\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\TecEmergentesColores\TecEmergentesColores\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\TecEmergentesColores\TecEmergentesColores\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+D:\TecEmergentesColores\TecEmergentesColores\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\TecEmergentesColores\TecEmergentesColores\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\TecEmergentesColores\TecEmergentesColores\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\VisualStudioProjects\WebApplication3\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\VisualStudioProjects\WebApplication3\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\VisualStudioProjects\WebApplication3\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\WebApplication3\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\WebApplication3\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\VisualStudioProjects\WebApplication3\CapaEntidad\obj\Debug\CapaEntidad.pdb

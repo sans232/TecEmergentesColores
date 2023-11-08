@@ -1,0 +1,102 @@
+﻿@{
+
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <title>Ten un buen día</title>
+    <style>
+        body {
+            background-color: @ViewBag.ColorFondo;
+            text-align: center;
+            font-family: Arial, sans-serif;
+        }
+
+        #mensajeBox {
+           
+            padding: 20px;
+            margin: 30px auto;
+            width: 500px;
+            font-size: 30px;
+            background-color: @ViewBag.ColorCuadro;
+        }
+
+        #likeDislikeButtons {
+            margin-top: 20px;
+        }
+
+        button {
+            margin: 5px;
+            padding: 10px 20px;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <div id="mensajeBox">
+        <p><FONT color=@ViewBag.ColorTexto>@ViewBag.MensajeAleatorio</FONT></p>
+    </div>
+
+    <div id="likeDislikeButtons">
+        <button id="likeButton"
+                style="background-color: green;">
+            <FONT color="#fffffff">Like</FONT>
+        </button>
+        <button id="dislikeButton" style="background-color: red;">
+            <FONT color="#fffffff">Dislike</FONT>
+        </button>
+    </div>
+
+    <script>
+        $(document).ready(function () {
+            $("#likeButton").click(function () {
+                $.ajax({
+                    url: "/Home/ResultadoPositivo", // Ruta al controlador y acción
+                    type: "POST", // O el método HTTP que corresponda
+                    success: function (data) {
+                        // La función se ejecutó con éxito, maneja la respuesta si es necesario
+                       
+                        window.location.reload();
+                    },
+                    error: function () {
+                       
+                        window.location.reload();
+                    }
+                });
+            });
+        });
+        $(document).ready(function () {
+            $("#dislikeButton").click(function () {
+                $.ajax({
+                    url: "/Home/ResultadoNegativo", // Ruta al controlador y acción
+                    type: "POST", // O el método HTTP que corresponda
+                    success: function (data) {
+                        // La función se ejecutó con éxito, maneja la respuesta si es necesario
+                       
+                        window.location.reload();
+                    },
+                    error: function () {
+                       
+                        window.location.reload();
+
+                    }
+                });
+            });
+        });
+    </script>
+    
+
+</body>
+</html>

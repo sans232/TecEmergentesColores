@@ -1,0 +1,36 @@
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaDatos\bin\Debug\CapaDatos.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaDatos\obj\Debug\CapaDatos.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\041_2_CURSO_CARRITO_COMPRAS_MVC\TecEmergentes\CapaDatos\bin\Debug\CapaDatos.dll
+D:\041_2_CURSO_CARRITO_COMPRAS_MVC\TecEmergentes\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\041_2_CURSO_CARRITO_COMPRAS_MVC\TecEmergentes\CapaDatos\bin\Debug\CapaEntidad.dll
+D:\041_2_CURSO_CARRITO_COMPRAS_MVC\TecEmergentes\CapaDatos\bin\Debug\CapaEntidad.pdb
+D:\041_2_CURSO_CARRITO_COMPRAS_MVC\TecEmergentes\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\041_2_CURSO_CARRITO_COMPRAS_MVC\TecEmergentes\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\041_2_CURSO_CARRITO_COMPRAS_MVC\TecEmergentes\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\041_2_CURSO_CARRITO_COMPRAS_MVC\TecEmergentes\CapaDatos\obj\Debug\CapaDatos.dll
+D:\041_2_CURSO_CARRITO_COMPRAS_MVC\TecEmergentes\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\TecEmergentesColores\TecEmergentesColores\CapaDatos\bin\Debug\CapaDatos.dll
+D:\TecEmergentesColores\TecEmergentesColores\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\TecEmergentesColores\TecEmergentesColores\CapaDatos\bin\Debug\CapaEntidad.dll
+D:\TecEmergentesColores\TecEmergentesColores\CapaDatos\bin\Debug\CapaEntidad.pdb
+D:\TecEmergentesColores\TecEmergentesColores\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\TecEmergentesColores\TecEmergentesColores\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\TecEmergentesColores\TecEmergentesColores\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\TecEmergentesColores\TecEmergentesColores\CapaDatos\obj\Debug\CapaDatos.dll
+D:\TecEmergentesColores\TecEmergentesColores\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\VisualStudioProjects\WebApplication3\CapaDatos\bin\Debug\CapaDatos.dll
+D:\VisualStudioProjects\WebApplication3\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\VisualStudioProjects\WebApplication3\CapaDatos\bin\Debug\CapaEntidad.dll
+D:\VisualStudioProjects\WebApplication3\CapaDatos\bin\Debug\CapaEntidad.pdb
+D:\VisualStudioProjects\WebApplication3\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\WebApplication3\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\WebApplication3\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\VisualStudioProjects\WebApplication3\CapaDatos\obj\Debug\CapaDatos.dll
+D:\VisualStudioProjects\WebApplication3\CapaDatos\obj\Debug\CapaDatos.pdb
